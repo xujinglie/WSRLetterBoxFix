@@ -1,0 +1,11 @@
+# build output
+bin/
+obj/
+*.user
+*.deps.json
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.suo
