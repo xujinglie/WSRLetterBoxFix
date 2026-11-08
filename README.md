@@ -5,6 +5,14 @@ WitchSpring R（魔女之泉 R）超宽屏黑边修复插件 —— 隐藏游戏
 Ultrawide letterbox fix for **WitchSpring R**: hides the black bars the game draws on
 screens wider than 16:9.
 
+## 下载
+
+编译好的插件在 [Releases](https://github.com/xujinglie/WSRLetterBoxFix/releases/latest)：
+
+- `WSRLetterBoxFix.dll` → 放进 `<游戏目录>\BepInEx\plugins\WSRLetterBoxFix\`
+
+需要先装好 BepInEx 6（IL2CPP 版），详见下面「安装」。
+
 ---
 
 ## 问题：黑边到底是怎么来的
